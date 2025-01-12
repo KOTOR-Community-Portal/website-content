@@ -1,6 +1,6 @@
 # Writing Guide
 
-Content on the KOTOR Community Portal is written in **Markdown**, a lightweight and popular markup language. During publishing, the KOTOR Community Portal toolchain converts these Markdown documents into the HTML documents that are visible on the website. This makes it possible to edit the content of a webpage in Markdown separately from its presentation in HTML. In this way, one does not need to know anything about HTML to be able to contribute content to our website.
+Content on the KOTOR Community Portal is written in **Markdown**, a lightweight and popular markup language. During publishing, the KOTOR Community Portal toolchain converts these Markdown documents into the HTML pages that are visible on the website. This makes it possible to edit the content of a webpage in Markdown separately from its presentation in HTML. In this way, one does not need to know anything about HTML to be able to contribute content to our website.
 
 Our Markdown parser follows the [CommonMark](https://commonmark.org/) specification of Markdown and has a few custom extensions. GitHub Flavored Markdown also follows the CommonMark specification, so it is possible to edit content directly in your browers using GitHub's web editor.
 

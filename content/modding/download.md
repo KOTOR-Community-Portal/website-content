@@ -46,7 +46,7 @@ Note{.note}
 	- Using the **legacypc** option disables Steam Workshop support.
     - Steam Workshop support for KOTOR 1 is not available.
 
-Warning {.warning}
+Warning{.warning}
 :   There are many [reasons not to use the Steam Workshop](https://deadlystream.com/topic/7321-why-not-to-use-the-steam-workshop/), including:
     - The Steam Workshop has no capability of handling compatibility between mods which edit the same files.
 	- The use of any Steam Workshop mods also creates complications with mods installed through other means.

@@ -22,9 +22,11 @@ Wookieepedia is a general Star Wars wiki.
 
 [Wookieepedia](https://starwars.fandom.com/wiki/Main_Page)
 
-Warning: Wookieepedia contains unmarked spoilers. We recommend that new players avoid reading articles related to the KOTOR games and browse with caution.
+Warning{.warning}
+:   Wookieepedia contains unmarked spoilers. We recommend that new players avoid reading articles related to the KOTOR games and browse with caution.
 
-Note: Wookieepedia is written to describe a singular canonical series of events which, for the most part, exclude player choices and cut content.
+Note{.note}
+:   Wookieepedia is written to describe a singular canonical series of events which, for the most part, exclude player choices and cut content.
 
 ## Troubleshooting
 

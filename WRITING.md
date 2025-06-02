@@ -54,7 +54,7 @@ _The **marked**, **subscript**, **superscript**, and **spoiler** extensions are 
 
 ## Links
 
-You can create a link by wrapping the text you want display in square brackets `[ ]` and wrapping the URL in parentheses `( )`.
+You can create a link by wrapping the text you want to display in square brackets `[ ]` and wrapping the URL in parentheses `( )`.
 
 `[KOTOR Community Portal lore questions](https://kotor.neocities.org/faq/lore.html)`
 

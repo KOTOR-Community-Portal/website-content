@@ -17,14 +17,14 @@ The easiest way to contribute is to edit content directly in your browser using 
 3. GitHub will ask you to [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository. This will create a copy of the repository on your account.
 4. Make whatever changes you want.
 5. Add a a meaningful commit message explaining what you changed.
-6. Click the `Propose file change` to save your changes.
+6. Click the `Propose file change` button to save your changes.
 8. You'll be presented with the option to `Create a pull request`. A [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) is a way of proposing changes to a repository's maintainers. Any changes you make on your forked repository will not affect the original repository unless you submit a pull request.
 9. GitHub will automatically generate a summary of the pull request for you to review. While you don't need to change any options here, this is where you'll find out if the merge is possible. If you see any error messages, it means there are issues that need to be addressed before your changes can be merged.
-10. Click the "Create pull request" button to formally submit your proposal.
+10. Click the `Create pull request` button to formally submit your proposal.
 17. Wait for our team to review your changes. Then, one of the following will happen:
-    - We will accept your proposal as is
-    - We will accept your proposal, but we will ask you to make some changes before publishing
-    - We will not accept your proposal, but we will explain why
+    - We will accept your proposal as is.
+    - We will accept your proposal, but we will ask you to make some changes before publishing.
+    - We will not accept your proposal, but we will explain why.
 
 ### Locally
 
@@ -39,10 +39,11 @@ It is also possible to [set up Git](https://docs.github.com/en/get-started/quick
 
 We use [branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) to manage changes to the KOTOR Community Portal website. A branch is a separate line of development for making changes without affecting the main project until they are ready.
 
-- The **main** branch will typically contain the current working version of the website. The main branch is protected, so only certain users are able to edit it. Generally, the main branch will be changed only when a new version of the website is published.
-- The **default** branch will typically contain a work in progress of the next version. Typically, this branch will be named whatever the next version of the website is going to be named.
+- The `main` branch will typically contain the current working version of the website. The main branch is protected, so only certain users are able to edit it. Generally, the main branch will be changed only when a new version of the website is published.
+- The `dev` branch will typically contain a work in progress of the next version. This may become a major, minor, or patch version depending on the content included.
+- Release branches will contain a working version of the website in some past state. Release branches are named starting with `release/`.
 - Other branches may be used for developing individual features.
 
-Most of the time, you will only need to worry about the default branch.
+Most of the time, you will only need to worry about the `dev` branch, which is the default branch on GitHub.
 
 In GitHub's web editor, you can switch branches using the dropdown menu located at the top left of each page.

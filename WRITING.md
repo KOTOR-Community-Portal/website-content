@@ -151,3 +151,23 @@ The default text alignment is centered for header cells and left for all other c
 | Intelligence | 8     | -1       |
 | Wisdom       | 15    | +2       |
 | Charisma     | 14    | +2       |
+
+## Note and Warning Boxes
+
+You can make information stand out more by using note and warning boxes. A box is contained in sequences of three colon characters `:::`. Each box has a title and body. The first paragraph of the body begins with a colon and three spaces `:   `. Subsequent paragraphs begin with four spaces `    `.
+```
+:::note
+Note
+:   This is a note
+:::
+
+:::warning
+Warning
+:   This is a warning.
+    
+    This warning has multiple lines.
+:::
+```
+<img width="1432" height="406" alt="image" src="https://github.com/user-attachments/assets/27299bb0-780b-48a3-8e6f-12cf44d55a9d" />
+
+_**Note** and **warning box** extensions are not supported by GitHub Flavored Markdown and will not preview correctly on GitHub's web editor._

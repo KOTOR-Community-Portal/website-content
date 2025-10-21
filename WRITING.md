@@ -56,29 +56,53 @@ _The **marked**, **subscript**, **superscript**, and **spoiler** extensions are 
 
 You can create a link by wrapping the text you want to display in square brackets `[ ]` and wrapping the URL in parentheses `( )`.
 
-`[KOTOR Community Portal lore questions](https://kotor.neocities.org/faq/lore.html)`
+`[KOTOR Community Portal lore questions](https://kotor.neocities.org/faq/lore)`
 
-[KOTOR Community Portal lore questions](https://kotor.neocities.org/faq/lore.html)
+[KOTOR Community Portal lore questions](https://kotor.neocities.org/faq/lore)
 
-### Relative Paths
+### Minimal Links
+
+#### Relative Paths
 
 If you are linking to a webpage on the KOTOR Community Portal, you do not need to include the entire URL. The KOTOR Community Portal server is able to find the same webpage using a relative path. A relative URL starts with a forward slash `/` and includes only the part of the URL that normally appears after the `kotor.neocities.org` domain.
 
-The following links point to the same webpage:
+The following links point to the same webpage, with the second link using a relative path:
+```
+https://kotor.neocities.org/faq/lore.html
+/faq/lore.html
+```
 
-`https://kotor.neocities.org/faq/lore.html`
+#### Server Defaults
 
-`/faq/lore.html`
+If a KOTOR Community Portal link is missing a filename or extension, it will attempt to load a webpage using a default value. The default filename is `index` and the default extension is `.html`.
 
-### index.html
+The following links point to the same webpage, with the second link omitting the filename:
+```
+https://kotor.neocities.org/faq/lore.html
+https://kotor.neocities.org/faq/lore
+```
 
-If a KOTOR Community Portal link points to a directory instead of a file, the server will attempt to load the directory's default webpage, `index.html`. You do not need to include the `index.html` part of the URL when linking to this page.
+The following links point to the same webpage, with the second link omitting the filename and extension:
+```
+https://kotor.neocities.org/modding/mod_builds/index.html
+https://kotor.neocities.org/modding/mod_builds
+```
 
-The following links point to the same webpage:
+#### Putting It All Together
 
-`/modding/mod_builds/index.html`
+You can make a minimal link by relying on relative paths and server defaults. 
 
-`/modding/mod_builds/`
+The following links point to the same webpage, with the second link using a relative path and omitting the file extension:
+```
+https://kotor.neocities.org/faq/lore.html
+/faq/lore
+```
+
+The following links point to the same webpage, with the second link using a relative path and omitting the filename and extension:
+```
+https://kotor.neocities.org/modding/mod_builds/index.html
+/modding/mod_builds
+```
 
 ### URL Fragments
 
@@ -86,7 +110,7 @@ You can link to a specific part of a webpage using a URL fragment. A URL fragmen
 
 A URL fragment beings with a hash tag `#` and is followed by the identifier of an element on the webpage.
 
-`/faq/k2.html#Bug_Support`
+`/faq/k2#Bug_Support`
 
 The KOTOR Community Portal's toolchain automatically generates identifiers for important elements on each page so they may be linked to. _Be careful when changing a heading, as this will change its identifier and break any existing links to it._
 

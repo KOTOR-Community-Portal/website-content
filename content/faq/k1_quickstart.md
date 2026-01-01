@@ -6,7 +6,7 @@ You're a new (or newly-returning) player: welcome! This guide is here to help yo
 
 ### What System Should I Buy KOTOR For?
 
-Unlike KOTOR 2, for KOTOR the system doesn't matter too much. Xbox, Mobile, PC and Switch are all (mostly) equal--you can even mod KOTOR on mobile, so long as you're on a system with file access. It is always better to play the games on a system where you have file and savegame access, so you can utilize bugfix mods and can savegame edit past obstacles if you encounter issues anyway, but in KOTOR's case it's far from critical.
+Unlike KOTOR 2, for KOTOR the system doesn't matter too much. Xbox, Mobile, PC and Switch are all (mostly) equal—you can even mod KOTOR on mobile, so long as you're on a system with file access. It is always better to play the games on a system where you have file and savegame access, so you can utilize bugfix mods and can savegame edit past obstacles if you encounter issues anyway, but in KOTOR's case it's far from critical.
 
 If you're playing on the original Xbox or on a later console via disk installation you won't have access to the Yavin Station DLC, but this is just a new merchant who buys goods for high prices, and has unique equipment; it's not a story expansion.
 

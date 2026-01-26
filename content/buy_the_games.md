@@ -59,7 +59,9 @@ __
 
 __
 
-#### [![Apple logo](/Apple_logo_white.svg) Mac via the AppStore](https://apps.apple.com/us/app/star-wars-knights-of-the-old-republic-ii/id960778634?mt=12)
+#### [![Apple logo](/Apple_logo_white.svg) Mac via the AppStore](https://apps.apple.com/us/app/star-wars-knights-of-the-old-republic-ii/id960778634?mt=12)\
+
+Note that the Appstore version of KOTOR 2 is reported to be completely nonfunctional on modern MacOS variants. We've been told by many MacOS users that the Steam version of the game works perfectly fine and that is a better alternative.
 
 ___
 

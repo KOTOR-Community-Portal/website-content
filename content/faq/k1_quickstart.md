@@ -28,9 +28,9 @@ If you meet someone wielding a lightsaber in a grove, just know you don't have t
 
 There are companion quests which have a certain semi-required planet order to them. If you'd like to complete all of them, you'll need to play your game in a certain way; see [here](/faq/k1.html#Is_there_an_optimal_order_in_which_I_should_visit_planets) for more info, though be aware this guide does contain more significant spoilers!
 
-If you do something special with Bastila on the *Ebon Hawk* that seems important (like it won't happen again, maybe, until the end of the game), don't speak to her AT ALL after that point, to avoid an unfortunate basegame bug. This is fixed in some mods, especially the KOTOR Community Patch (recommended below), but if you're not using it or not on a moddable system, it's best to not speak with her again until a point which will become obvious.
+If you do something special with Bastila on the *Ebon Hawk* that seems important (like it won't happen again, maybe, until the end of the game), don't speak to her AT ALL after that point, to avoid an unfortunate basegame bug. This is fixed in some mods, including the KOTOR Community Patch, but unless you're utilizing the KOTOR mod build (the fix is included) or another mod which you're positive resolves this issue, it's best to not speak with her again until a point which will become obvious.
 
-In order to make a particular mechanic easier, by your fourth Star Map it's recommended to have either Drain Life (or Death Field), Destroy Droid, or Force Lightning/Storm.
+In order to make a particular mechanic easier, by your final Star Map it's recommended to have either Drain Life (or Death Field), Destroy Droid, or Force Lightning/Storm.
 
 ### How do I Build a Character?
 
@@ -42,7 +42,7 @@ For specific help on building characters of various types, see the [character bu
 
 ### Should I Use Mods?
 
-If you're on a system that you can install them on, YES--the [KOTOR Community Patch](https://deadlystream.com/files/file/1258-kotor-1-community-patch/) is a pure bugfix compilation focused on resolving all the game's various bugs, some of them quite significant even if not gamebreaking. It adds no restored content (KOTOR has very little to restore), so even if you would typically like to avoid any sort of content alterations in a first playthrough, this mod is still something you should use as a pure bugfix patch.
+If you're on a system that you can install them on, YES--the [KOTOR Community Patch](https://deadlystream.com/files/file/1258-kotor-1-community-patch/) is a pure bugfix compilation, and it fixes some quite significant issues, even if most aren't gamebreaking. It adds no restored content (KOTOR has very little to restore), so even if you would typically like to avoid any sort of content alterations in a first playthrough, this mod is still something you should use as a pure bugfix patch.
 
 ### Okay, What if I Want More Mods?
 

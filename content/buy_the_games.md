@@ -57,9 +57,11 @@ __
 
 #### [![GOG.com logo](/GOG.com_logo.svg) Windows via GOG.com](https://www.gog.com/game/star_wars_knights_of_the_old_republic_ii_the_sith_lords)
 
-___
+__
 
 #### [![Apple logo](/Apple_logo_white.svg) Mac via the AppStore](https://apps.apple.com/us/app/star-wars-knights-of-the-old-republic-ii/id960778634?mt=12)
+
+___
 
 ### Mobile
 

@@ -32,7 +32,7 @@ ___
 
 ### What happened to Revan when he traveled to the Unknown Regions after the end of the game?
 
-According to the original interpretation of KOTOR 2 (as it was Obsidian that established the plot thread wherein Revan eventually traveled to the Unknown Regions), what occurred is not clear. It's clear that Revan believed that his fight against the True Sith would be dangerous in the extreme (recall that KOTOR 2 also establishes that a True Sith Empire is lurking in the Unknown Regions, different in spirit from the True Sith of TOR), as he left all his companions behind. It's also clear that he ran into some form of trouble while he was out there, as T3-M4 returned in the Ebon Hawk looking for the Jedi Exile with the express intent of recruiting her to come with him to save Revan. With this in mind, whatever Revan's situation, it must not have been immediately life-threatening if T3 had the time to return and find her. Even so, T3 does confirm that Revan was in danger and needed help to defeat the True Sith. This was the original plot hook for what would have happened in the cancelled KOTOR 3 that Obsidian was producing.
+According to the original interpretation of KOTOR 2 (as it was Obsidian that established the plot thread wherein Revan eventually traveled to the Unknown Regions), what occurred is not clear. It's clear that Revan believed that his fight against the True Sith would be dangerous in the extreme (recall that KOTOR 2 also establishes that a True Sith Empire is lurking in the Unknown Regions, different in spirit from the True Sith of TOR), as he left all his companions behind. It's also clear that he ran into some form of trouble while he was out there, as T3-M4 returned in the _Ebon Hawk_ looking for the Jedi Exile with the express intent of recruiting her to come with him to save Revan. With this in mind, whatever Revan's situation, it must not have been immediately life-threatening if T3 had the time to return and find her. Even so, T3 does confirm that Revan was in danger and needed help to defeat the True Sith. This was the original plot hook for what would have happened in the cancelled KOTOR 3 that Obsidian was producing.
 
 Conversely, according to what The Old Republic MMO established much later, Revan lived with Bastila on Coruscant for two to two and a half years after the Star Forge was destroyed, during which time he was plagued by nightmares. He eventually went into the Unknown Regions to find the truth about his premonitions and perhaps recover part of his memories. During this expedition he was shot down over Nathema, a planet devoid of the Force, and was taken captive by Darth Nyriss, one of the Emperor's Council, a ruling council of the True Sith Empire. He was held captive for several years until he was eventually freed by the Exile, Meetra Surik. Prepared for a second confrontation with the Sith Emperor, Revan was betrayed in battle by a Sith ally named Scourge. Defeated, the Emperor held him in stasis for 300 years, all the while trying to break his mind and uncover his secrets of the Republic. Eventually, Revan was freed and went on to take over a construct similar to the Star Forge called a Foundry. Revan was overwhelmed in a battle to re-claim the Foundry and disappeared. According to TOR, by this point his spirit has been severed in two; one half light, one dark. The latter maintained control of his body and attempted another siege of the galaxy. He was stopped very early into his plan, and his two halves reconciled before fading into the Force for good.
 
@@ -60,7 +60,7 @@ With that said: since the Revan novel which establishes many of the events betwe
 
 After KOTOR, Revan slowly began to regain his memory, and eventually remembered the threat of the True Sith Empire, a powerful remnant of the Sith who fled Korriban after the Great Hyperspace War, lurking in the Unknown Regions. Revan had found evidence of the True Sith on Malachor when he discovered the Trayus academy during the Mandalorian Wars, and orchestrated the Jedi Civil War as a means to conquer the Republic to strengthen it, so that he could create a unified power to face off against the True Sith. With his war machine defeated at his own hand, Revan had no real option but to go into the Unknown Regions alone to attempt to stop the True Sith, although he orchestrated some moves to strengthen his allies beforehand, such as entrusting Carth with strengthening the Republic and granting Mandalore the mask of Mandalore the Ultimate, so that he could begin to rebuild the Mandalorian clans into a once-again-powerful ally.
 
-Yet something went wrong with Revan's plan and he was put into danger. T3-M4 was forced to take the Ebon Hawk and seek for an ally to assist Revan; this is what T3 is doing on the '*Hawk* when you meet him at the beginning of the game.
+Yet something went wrong with Revan's plan and he was put into danger. T3-M4 was forced to take the _Ebon Hawk_ and seek for an ally to assist Revan; this is what T3 is doing on the '*Hawk* when you meet him at the beginning of the game.
 
 Elsewhere—and indeed elsewhen—Kreia, Nihilus, and Sion were present on Malachor, training. Some time after the events of the original KOTOR (likely not much longer than two years after), Kreia was cast out by the Triumvirate, temporarily lost her ability to use the Force, and had her revelatory experience about the Force's influence over all life, coming to the decision to destroy it.
 
@@ -68,7 +68,7 @@ Some time after Kreia was exiled, Atris, already falling under the influence of 
 
 After several more years and no more indication of who or where the Sith were, Atris decided that she once again needed to bait them, but could not risk using "real" Jedi this time. Based on the one message that the Jedi Conclave on Katarr sent out before they were consumed--that the threat was in some form related to the Exile--she arranged to have the Exile recalled from the Outer Rim and, once she was on her way, leaked information about her return as another trap. In this way she hoped to fulfill the conditions of the Jedi prophesy by using the Exile.
 
-Kreia gained information about the Exile in this manner and, seeking her for her own personal vendetta against the Force, reached her on the Harbinger in time to save her from HK-50, but not in time to avoid Sion's Sith, who were also hunting the "Last of the Jedi." In a pitched battle Kreia (possibly with the assistance, unwitting or otherwise, of the HK-50 unit later locked in the *Ebon Hawk*) was able to get the Exile to the *Ebon Hawk* and take off, at which time T3-M4 was able to dock with Peragus for repairs, thus beginning the events of KOTOR 2.
+Kreia gained information about the Exile in this manner and, seeking her for her own personal vendetta against the Force, reached her on the _Harbinger_ in time to save her from HK-50, but not in time to avoid Sion's Sith, who were also hunting the "Last of the Jedi." In a pitched battle Kreia (possibly with the assistance, unwitting or otherwise, of the HK-50 unit later locked in the *Ebon Hawk*) was able to get the Exile to the *Ebon Hawk* and take off, at which time T3-M4 was able to dock with Peragus for repairs, thus beginning the events of KOTOR 2.
 
 ___
 
@@ -87,82 +87,90 @@ While the entirety of what content is missing cannot be ascertained, there is a 
 
 ___
 
-### How did Kreia get on the Ebon Hawk at the beginning of KOTOR 2?
+### How did Kreia get on the _Ebon Hawk_ at the beginning of KOTOR 2?
 
 This sequence is *way* harder than it should be to parse, made much more difficult by the presence of some events in the timeline which are elaborated on ingame but seem to be irrelevant or go nowhere in the end, alongside at least one plotline which seems to have been cut during early development. Taken together, this paints a picture of events which is opaque, to say the least. But if you look *very* closely (like, looking at the game files directly with a dialogue editor closely), there is a coherent series of events here. We will be establishing a series of events using quotes from the game to back up our conclusions--note that some, but not most, of these lines WERE cut from the final product! Nevertheless, they help to provide critical context about what was intended during the course of development which allows us to reach a firm conclusion about the order of events at the start of the game.
 
 Note that, because we're going to be quoting directly from the game files here, there are some developer notes about how scenes should be staged in the quotes. These have been left in where constructive to parsing the sequence of events.
 
-1. Revan remembered the True Sith threat and traveled to Malachor. The Ebon Hawk's navicomputer was voice locked to hide that it had been to Malachor. HK was deactivated so nobody could use him to bypass the voice lock, leaving T3 the only one able to access the navicomputer.
+1\. Revan remembered the True Sith threat and traveled to Malachor. The Ebon Hawk's navicomputer was voice locked to hide that it had been to Malachor. HK was deactivated so nobody could use him to bypass the voice lock, leaving T3 the only one able to access the navicomputer.
 
-> [Player, to T3] "You were at Malachor V. Revan left you there - and the Ebon Hawk." (not in the original game or TSLRCM, but present in the game files)
-...
-> "There's nothing wrong with the astrogation system?"
-> "So the astrogation system was crippled to prevent learning where the Ebon Hawk had been?"
-> "Dee... deet."
-> "Protect? Protect who? Under whose orders?"
-> "Deeee-reet, dee-deeet. Deeet. Dee-reet."
-> "Why didn't they want anyone to know where the ship had been?"
-> "Deee... deet."
-> "So the astrogation system was crippled to prevent learning where the Ebon Hawk had been?"
-> "Dee... deet."
-> "But how did the Ebon Hawk come back from there if it was so dangerous? And why?"
+> [Player, to T3] "You were at Malachor V. Revan left you there - and the _Ebon Hawk_." (not in the original game or TSLRCM, but present in the game files)
 
-2. Unbeknownst to Revan, Bastila or Carth left instructions for T3 to seek help from other Jedi if Revan went missing.
+> "There's nothing wrong with the astrogation system?"  
+> "So the astrogation system was crippled to prevent learning where the _Ebon Hawk_ had been?"  
+> "Dee... deet."  
+> "Protect? Protect who? Under whose orders?"  
+> "Deeee-reet, dee-deeet. Deeet. Dee-reet."  
+> "Why didn't they want anyone to know where the ship had been?"  
+> "Deee... deet."  
+> "So the astrogation system was crippled to prevent learning where the _Ebon Hawk_ had been?"  
+> "Dee... deet."  
+> "But how did the _Ebon Hawk_ come back from there if it was so dangerous? And why?"  
 
-3. Kreia traveled to Malachor in search of Revan and found T3 and the Ebon Hawk. When Kreia was eventually cast out from the Triumvirate but survived contrary to their expectations, she fled in the Ebon Hawk alongside T3, taking advantage of Bastila/Carth's instructions to seek out Jedi who could assist Revan in order to secure his assistance.
-> [Kreia] "He left the Ebon Hawk and its machines behind, for he knew he would not need them."
-...
-> "[Intelligence] How did you get here, T3?"
-> "Dee-reet? Deet?"
-> "Well, there weren't any droid records of you on board the Harbinger. Or on Peragus."
-> "Dee... deet."
-> "Were you on the Ebon Hawk with Kreia?"
-> "Dee... deet."
-> "Yes, but where did the Ebon Hawk come from?"
+2\. Unbeknownst to Revan, Bastila or Carth left instructions for T3 to seek help from other Jedi if Revan went missing.
 
-4. The Harbinger received a distress signal that a freighter (the Ebon Hawk) was being attacked by a Sith warship. We have no clear indication about how long after #3 this event took place, but Kreia and T3 are still cooperating, if uneasily. Carth (or Cede, if Revan is set to be DS-aligned in KOTOR 1) order the Harbinger to investigate because the freighter was identified as the Ebon Hawk.
-> "You have permission to divert course, captain. If there is a Sith presence in the region, I want you to investigate. {Probing, the ID signature of the vessel is very important, but he doesn't want to tip his hand}
-> "The ID signature on the freighter... did you get confirmation on it?"
-> "Yes sir. We did not have the vessel listed in our databanks, so we transmitted the code to you - was there a match?"
-> "There was, captain. If you find any trace of that vessel - even wreckage, I want it recovered."
+3\. Kreia traveled to Malachor in search of Revan and found T3 and the _Ebon Hawk_. When Kreia was eventually cast out from the Triumvirate but survived contrary to their expectations, she fled in the _Ebon Hawk_ alongside T3, taking advantage of Bastila/Carth's instructions to seek out Jedi who could assist Revan in order to secure his assistance.
 
-5. However, when the Harbinger encounters the Ebon Hawk and the Sith warship, the crew find both ships empty.
-> "The Sith warship is empty, sir - we attached a umbilical and sent three strike teams through it, and there's no sign of a crew... or its commander."
-> "There's no one on board? What about the escape pods?"
-> "They're still in their berths, sir - this place, it's empty - it's like a ghost ship."
-> "Then who was firing at the freighter?"
-> "We don't know, sir - the freighter's empty, too, we did a clean sweep, and nothing except a lone T3 unit, badly damaged. Did you still want it tractor beamed to the Harbinger?"
-> "Search the freighter and the warship one more time - if they're clean, then we'll tractor the freighter over."
+> [Kreia] "He left the _Ebon Hawk_ and its machines behind, for he knew he would not need them."
 
-6. Everyone else found on the Ebon Hawk was dead. We don't know who those people were, though. At least one may have been Kreia, feigning death as she later did at the Peragus morgue.
-> "Everyone on the Ebon Hawk was dead, sir... we're starting autopsies within the hour."
-...
-> [Prologue Narration] [The Ebon Hawk is adrift in space after a terrible battle. Most of its crew are dead or dying.]
+> "[Intelligence] How did you get here, T3?"  
+> "Dee-reet? Deet?"  
+> "Well, there weren't any droid records of you on board the _Harbinger_. Or on Peragus."  
+> "Dee... deet."  
+> "Were you on the _Ebon Hawk_ with Kreia?"  
+> "Dee... deet."  
+> "Yes, but where did the _Ebon Hawk_ come from?"  
 
-7. While the Harbinger crew searches the Sith warship, stealthed Sith assassins sneak aboard the Harbinger. This means the Sith didn't necessarily board the Ebon Hawk themselves, and may only have entered the Harbinger later, when it attached to the Sith ship. Whatever happened on the Ebon Hawk may have occurred without the direct presence of any Sith assassins on board.
-> [Journal Entry] You were a passenger on board the Harbinger, on route to Telos, when the ship encountered a Sith warship and the Ebon Hawk, drifting in space, with no sign of a crew on either ship. The Ebon Hawk was taken on board, and during the search of the Sith vessel, stealthed Sith assassins made it on board the Harbinger, slowly taking over the ship.
+4\. The _Harbinger_ received a distress signal that a freighter (the Ebon Hawk) was being attacked by a Sith warship. We have no clear indication about how long after #3 this event took place, but Kreia and T3 are still cooperating, if uneasily. Carth (or Cede, if Revan is set to be DS-aligned in KOTOR 1) order the _Harbinger_ to investigate because the freighter was identified as the _Ebon Hawk_.  
 
-Now, up to this point things are convoluted and you probably never even realized half of this in the course of playing the game, but I think you're probably following along just fine. Here's where we start running into problems, though, because different characters start saying different--and contradictory--things about the Ebon Hawk at this time.
+> "You have permission to divert course, captain. If there is a Sith presence in the region, I want you to investigate. {Probing, the ID signature of the vessel is very important, but he doesn't want to tip his hand}  
+> "The ID signature on the freighter... did you get confirmation on it?"  
+> "Yes sir. We did not have the vessel listed in our databanks, so we transmitted the code to you - was there a match?"  
+> "There was, captain. If you find any trace of that vessel - even wreckage, I want it recovered."  
 
-8. Although the Harbinger crew indicate that the Ebon Hawk was drifting and inoperable, its crew dead, HK-50 and Kreia both indicate that it was the other way around: the Ebon Hawk was still spaceworthy, and the Harbinger was drifting when the Ebon Hawk arrived at its coordinates.
-> [HK-50] "Recitation: Following the unusual set of coincidences that led to the cascade failure in the Harbinger's systems, we were boarded by a small freighter with unknown ID codes. It appeared that this freighter had been attacked, and the captain wanted to study it. This freighter appeared to still be spaceworthy. Your cargo compartment was breached, and you were taken on board the freighter shortly before the Harbinger's systems began to go critical."
-...
-> [HK-50] "I happened to be serving as a protocol droid on the Harbinger when you booked passage. After that, it was a simple matter to sabotage the Harbinger and call for a retrieval. Irritated Statement: However, when the Ebon Hawk appeared and salvaged us from the wreckage, I was forced into a series of rapid recalculations, culminating in our current situation."
-...
-> [Kreia] "When I learned that you were on the vessel, I knew the Sith would not be far behind. When we intercepted the Harbinger, it was crippled, drifting in space. It was a simple matter to board the vessel and rescue you."
+5\. However, when the _Harbinger_ encounters the _Ebon Hawk_ and the Sith warship, the crew find both ships empty.
 
-What does this mean? There are only two serious options: the first is that one side or the other is entirely wrong, as a result either of miswrites, cut content or developer confusion about the course of events. This is absolutely possible. But there's also what we consider to be a somewhat more compelling possibility: the Ebon Hawk was playing dead.
+> "The Sith warship is empty, sir - we attached a umbilical and sent three strike teams through it, and there's no sign of a crew... or its commander."  
+> "There's no one on board? What about the escape pods?"  
+> "They're still in their berths, sir - this place, it's empty - it's like a ghost ship."  
+> "Then who was firing at the freighter?"  
+> "We don't know, sir - the freighter's empty, too, we did a clean sweep, and nothing except a lone T3 unit, badly damaged. Did you still want it tractor beamed to the Harbinger?"  
+> "Search the freighter and the warship one more time - if they're clean, then we'll tractor the freighter over."  
 
-Kreia and T3 would both have known which ship was carrying the Exile due to the information leaked by Atris, and would have been equally aware that the Sith knew. They stood no chance against a full-size Sith warship, and sent the distress call either in the hopes that the Harbinger could scare off the Sith vessel, or possibly even before they encountered the Sith ship at all, as a trick to lure the Harbinger to them. Either way, when the Harbinger arrived on the scene the Ebon Hawk had clearly been damaged, but we know from later dialogue that the damage was not anywhere near as serious as the damage you witness during the prologue. At this time, both ships would be playing dead: T3 and Kreia like they both have done at other points (T3 plays dead if you choose him to prison break the party on the Leviathan in KOTOR, Kreia plays dead in the morgue) in the hopes that the Harbinger will tractor them in and allow them to sneak aboard to rescue the Exile, and the Sith in the hopes that the Harbinger will dock with them and allow them to sneak on the ship. Unfortunately, the Harbinger docks with the Sith vessel before tractoring the 'Hawk in.
+6\. Everyone else found on the _Ebon Hawk_ was dead. We don't know who those people were, though. At least one may have been Kreia, feigning death as she later did at the Peragus morgue.
 
-9. HK-50 begins the cascade failure of ship systems to cover his intended escape roughly at the same time that the Sith assassins who snuck aboard the Harbinger begin to show themselves and strike down the crew. As the Harbinger becomes visibly crippled, Kreia and T3 break the masquerade of them being dead in the water and rush to the Harbinger. The Ebon Hawk docks, at which point Kreia rescues the Exile from a cargo bay where HK-50 had locked him/her. Not to be dispossessed of his bounty, HK-50 followed them to the Ebon Hawk.
-> [Kreia] "Whatever occurred on board the Harbinger had rendered you unconscious. Though your thoughts were faint, I was still able to find you... sealed in one of the cargo holds."
-...
-> [HK-50] "Your cargo compartment was breached, and you were taken on board the freighter shortly before the Harbinger's systems began to go critical. I, too, managed to board the freighter before the Harbinger's destruction. We were most fortunate to have survived, master."
+> "Everyone on the _Ebon Hawk_ was dead, sir... we're starting autopsies within the hour."  
 
-10. The Sith warship fires on the Ebon Hawk as it attempts to jump to hyperspace. Given that T3 is needed to access the navicomputer, this implies he was active at this point, even though though the Harbinger crew reported that he was badly damaged. The ship is nearly destroyed as it enters hyperspace, spitting the crew out above Peragus and beginning the game.
-> [Kreia] Unknown to me, however, the Sith were already on board. Just as we made the jump to hyperspace, they fired upon us, nearly destroying the Ebon Hawk."
+> [Prologue Narration] [The _Ebon Hawk_ is adrift in space after a terrible battle. Most of its crew are dead or dying.]  
+
+7\. While the _Harbinger_ crew searches the Sith warship, stealthed Sith assassins sneak aboard the _Harbinger_. This means the Sith didn't necessarily board the _Ebon Hawk_ themselves, and may only have entered the _Harbinger_ later, when it attached to the Sith ship. Whatever happened on the _Ebon Hawk_ may have occurred without the direct presence of any Sith assassins on board.
+
+> [Journal Entry] You were a passenger on board the _Harbinger_, on route to Telos, when the ship encountered a Sith warship and the _Ebon Hawk_, drifting in space, with no sign of a crew on either ship. The _Ebon Hawk_ was taken on board, and during the search of the Sith vessel, stealthed Sith assassins made it on board the _Harbinger_, slowly taking over the ship.  
+
+Now, up to this point things are convoluted and you probably never even realized half of this in the course of playing the game, but I think you're probably following along just fine. Here's where we start running into problems, though, because different characters start saying different--and contradictory--things about the _Ebon Hawk_ at this time.
+
+8\. Although the _Harbinger_ crew indicate that the _Ebon Hawk_ was drifting and inoperable, its crew dead, HK-50 and Kreia both indicate that it was the other way around: the _Ebon Hawk_ was still spaceworthy, and the _Harbinger_ was drifting when the _Ebon Hawk_ arrived at its coordinates.
+
+> [HK-50] "Recitation: Following the unusual set of coincidences that led to the cascade failure in the Harbinger's systems, we were boarded by a small freighter with unknown ID codes. It appeared that this freighter had been attacked, and the captain wanted to study it. This freighter appeared to still be spaceworthy. Your cargo compartment was breached, and you were taken on board the freighter shortly before the Harbinger's systems began to go critical."  
+
+> [HK-50] "I happened to be serving as a protocol droid on the _Harbinger_ when you booked passage. After that, it was a simple matter to sabotage the _Harbinger_ and call for a retrieval. Irritated Statement: However, when the _Ebon Hawk_ appeared and salvaged us from the wreckage, I was forced into a series of rapid recalculations, culminating in our current situation."  
+
+> [Kreia] "When I learned that you were on the vessel, I knew the Sith would not be far behind. When we intercepted the _Harbinger_, it was crippled, drifting in space. It was a simple matter to board the vessel and rescue you."  
+
+What does this mean? There are only two serious options: the first is that one side or the other is entirely wrong, as a result either of miswrites, cut content or developer confusion about the course of events. This is absolutely possible. But there's also what we consider to be a somewhat more compelling possibility: the _Ebon Hawk_ was playing dead.
+
+Kreia and T3 would both have known which ship was carrying the Exile due to the information leaked by Atris, and would have been equally aware that the Sith knew. They stood no chance against a full-size Sith warship, and sent the distress call either in the hopes that the _Harbinger_ could scare off the Sith vessel, or possibly even before they encountered the Sith ship at all, as a trick to lure the _Harbinger_ to them. Either way, when the _Harbinger_ arrived on the scene the _Ebon Hawk_ had clearly been damaged, but we know from later dialogue that the damage was not anywhere near as serious as the damage you witness during the prologue. At this time, both ships would be playing dead: T3 and Kreia like they both have done at other points (T3 plays dead if you choose him to prison break the party on the _Leviathan_ in KOTOR, Kreia plays dead in the morgue) in the hopes that the _Harbinger_ will tractor them in and allow them to sneak aboard to rescue the Exile, and the Sith in the hopes that the _Harbinger_ will dock with them and allow them to sneak on the ship. Unfortunately, the _Harbinger_ docks with the Sith vessel before tractoring the _Hawk_ in.
+
+9\. HK-50 begins the cascade failure of ship systems to cover his intended escape roughly at the same time that the Sith assassins who snuck aboard the _Harbinger_ begin to show themselves and strike down the crew. As the _Harbinger_ becomes visibly crippled, Kreia and T3 break the masquerade of them being dead in the water and rush to the _Harbinger_. The _Ebon Hawk_ docks, at which point Kreia rescues the Exile from a cargo bay where HK-50 had locked him/her. Not to be dispossessed of his bounty, HK-50 followed them to the _Ebon Hawk_.
+
+> [Kreia] "Whatever occurred on board the _Harbinger_ had rendered you unconscious. Though your thoughts were faint, I was still able to find you... sealed in one of the cargo holds."  
+
+> [HK-50] "Your cargo compartment was breached, and you were taken on board the freighter shortly before the Harbinger's systems began to go critical. I, too, managed to board the freighter before the Harbinger's destruction. We were most fortunate to have survived, master."  
+
+10\. The Sith warship fires on the _Ebon Hawk_ as it attempts to jump to hyperspace. Given that T3 is needed to access the navicomputer, this implies he was active at this point, even though though the _Harbinger_ crew reported that he was badly damaged. The ship is nearly destroyed as it enters hyperspace, spitting the crew out above Peragus and beginning the game.
+
+> [Kreia] Unknown to me, however, the Sith were already on board. Just as we made the jump to hyperspace, they fired upon us, nearly destroying the _Ebon Hawk_."  
 
 ___
 

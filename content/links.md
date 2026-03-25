@@ -6,7 +6,7 @@
 
 See our FAQ page for answers to common questions about the KOTOR games.
 
-[Frequently Asked Questions](https://kotor.neocities.org/)
+[Frequently Asked Questions](https://kotor.neocities.org/faq/)
 
 ### StrategyWiki
 
@@ -31,6 +31,12 @@ Warning
 Note
 :   Wookieepedia is written to describe a singular canonical series of events which, for the most part, exclude player choices and cut content.
 :::
+
+### Reddit
+
+The official KOTOR subreddit, r/kotor, is one of the largest communities for discussing topics relating to the _Knights of the Old Republic_ games, such as character builds and lore.
+
+[r/kotor](https://www.reddit.com/r/kotor/)
 
 ## Troubleshooting
 

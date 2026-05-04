@@ -16,13 +16,9 @@ The lightsaber and Force forms that your player character can learn allow you to
 
 KOTOR 2 also effectively lacks a level cap (having a level cap of 50, which is impossible to reach without a modded game or resorting to cheating/savegame editing), whereas the original KOTOR has a hard level cap of 20.
 
-___
-
 ### Can I get away with playing KOTOR 2 before I play the original KOTOR?
 
 It's possible, although not recommended. Both games introduce unique characters, weapons and environments, and KotOR II lays out the basics of what happened in the first KotOR game. Despite this, however, the background behind events in the second game is intimately tied to events that are either first discussed in or actually happen in the first game, and while it's easy for a user playing KotOR II first to learn the basics of the galactic situation, there's no way to know the ins-and-outs of it without playing the games in release order. That was very much the way that they were designed to be played.
-
-___
 
 ### What's the combat system of the KOTOR games like?
 
@@ -52,11 +48,11 @@ If you have problems with *crashes specifically*, the four most common culprits 
 
 * Issues with graphics rendering, which can often be solved by disabling grass, soft shadows, or frame buffer effects. These problems tend to manifest as crashes when attempting to load a savegame, or an area.
 
-* Issues with playing the game at a resolution smaller than your monitor's native resolution—see [here](/faq/k1.html#My_game_is_crashing_before_shortly_after_the_main_menu_or_whenever_I_have_a_cutscene) for how to solve this for KOTOR, and [here](/faq/k2.html#My_game_is_crashing_before_shortly_after_the_main_menu_or_whenever_I_have_a_cutscene) for KOTOR 2
+* Issues with playing the game at a resolution smaller than your monitor's native resolution—see [here](/faq/k1#my-game-is-crashing-beforeshortly-after-the-main-menu-or-whenever-i-have-a-cutscene) for how to solve this for KOTOR, and [here](/faq/k2#my-game-is-crashing-beforeshortly-after-the-main-menu-or-whenever-i-have-a-cutscene) for KOTOR 2
 
 * As already mentioned, playing on a laptop, system with an integrated graphics card or system with Arc graphics, which can unfortunately (though not always) result in irreparable crashing which no known method can get around; we recommend ensuring the storefront you buy your games through has a refund policy if you do choose to try playing on a laptop
 
-This list is meant to help provide a shorthand of things to try for users who purchase the game and experience immediate or near-immediate problems, *not* to be exhaustive; we can probably help even if your issue isn't on here! If you're having other problems, please check the FAQ sections for your specific game ([KOTOR](/faq/k1.html) or [KOTOR 2](/faq/k2.html)) first, but if there's nothing there to address your specific problem please hop into the #tech_support channel of the [KOTOR Discord](https://discord.gg/kotor) and let us know your problem! Nine times out of ten, we can find at least a partial solution for you.
+This list is meant to help provide a shorthand of things to try for users who purchase the game and experience immediate or near-immediate problems, *not* to be exhaustive; we can probably help even if your issue isn't on here! If you're having other problems, please check the FAQ sections for your specific game ([KOTOR](/faq/k1) or [KOTOR 2](/faq/k2)) first, but if there's nothing there to address your specific problem please hop into the #tech_support channel of the [KOTOR Discord](https://discord.gg/MxYDSG2FZu) and let us know your problem! Nine times out of ten, we can find at least a partial solution for you.
 
 ## Mod Support
 
@@ -68,15 +64,11 @@ Although this is a simplification, there are two basic ways mods are installed: 
 
 * Installers (of which there are two types: the TSLPatcher and HoloPatcher) are not inherently more advanced, but do have the capacity to be. The TSLPatcher/HoloPatcher are executables which will come pre-packaged with any mod which utilizes them for its install. Put simply, both are tools which modders can set up to automate their mods' installations, but they can also--depending upon the individual mod and how the author sets up the install--perform complex functions that you as the installing user couldn't do on your own. They allow for the easy installation of more complex mods which make use of file installations to other directories (such as modules or movies), as well as having the functionality to append changes to files (including files already in the override), *de facto* allowing many mods which would typically be incompatible with one another to be installed and function normally, since the file isn't being overwritten like it would be with the loose-file method. TSLPatcher/HoloPatcher isn't a ward against all evil, however, because for it to function properly the modder who set it up must have taken the time to ensure all their edits were made properly and in the most compatible format possible, which isn't always the case. Still, TSLPatcher or HoloPatcher installs are more likely to be compatible with other content than loose-file mods, and also have helpful installation feedback built into the .exe, so you can track problems if they do occur.
 
-___
-
 ### I want to request/try to create a mod, what do I need to do?
 
 You can sign up on [Deadly Stream](https://deadlystream.com). The forums have a Request section for requesting a mod, and there is a tutorial section with some info to help those aspiring to create a mod of their own. Also, there is a Modding Toolset section in the Downloads.
 
 If you need any help with modding, you can post a thread asking for help, explaining what you have, and trying to explain what you need. Most of the time others will help teach you as best they can, provided you're polite and patient.
-
-___
 
 ### This site's mod build has quite a lot of mods. Is there somewhere I can download and install them all at once?
 

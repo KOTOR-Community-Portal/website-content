@@ -2,4 +2,4 @@
 
 Looking for mods? Check out our [mod builds](/modding/mod_builds).
 
-Want to chat? Join our [Discord server](https://discord.gg/kotor)!
+Want to chat? Join our [Discord server](https://discord.gg/MxYDSG2FZu)!

@@ -8,7 +8,7 @@ The release KOTOR in 2003 was a watershed moment in video game history: it was o
 
 KOTOR 2, released a little over a year later, suffered a rushed development and is infamous for the amount of content cut from the final release of the game. Nevertheless, it is seen by many as something of an unfinished masterpiece for its engaging and self-reflective narrative, particularly when viewed with restored content.
 
-You can [Buy the Games](/about/buy_the_games) on a variety of platforms. See our see our [Useful Links](/about/useful_links) page for additional resources.
+You can [Buy the Games](/about/buy_the_games) on a variety of platforms. See our see our [Useful Links](/about/links) page for additional resources.
 
 ## The KOTOR Community Portal
 

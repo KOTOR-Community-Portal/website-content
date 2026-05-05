@@ -18,7 +18,7 @@ _Knights of the Old Republic_ has had an active commmunity since the release of 
 
 Unfortunately, many online spaces have not stood the test of time. Websites like KotORFiles, LucasForums and StarWarsKnights.com, once pillars of the community, shut down years ago. In 2018, the two biggest survivors—[r/kotor](https://www.reddit.com/r/kotor/) on Reddit and the modding forum [Deadly Stream](https://deadlystream.com/)—took efforts to merge their communities, sharing staff members and channels of communication. This brought the modding community and the subreddit closer together and allowed for more cooperative and efficient development of the r/kotor Mod Builds.
 
-Following the controversy surrounding changes to Reddit's API policies in 2023, several members of the community chose to leave the platform, including some r/kotor staff. We decided to create a new home for the Mod Builds and other useful information from Reddit we wished to preserve on a standalone website: the KOTOR Community Portal
+Following the controversy surrounding changes to Reddit's API policies in 2023, several members of the community chose to leave the platform, including some r/kotor staff. We decided to create a new home for the Mod Builds and other useful information from Reddit we wished to preserve on a standalone website: the KOTOR Community Portal.
 
 ### What is Neocities?
 

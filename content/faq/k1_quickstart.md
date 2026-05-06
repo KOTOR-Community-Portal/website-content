@@ -16,7 +16,7 @@ See [here](/buy_the_games/) for a list of retailers that sell KOTOR.
 
 If you're on the Xbox, there's not much you can ever do. You have three options: load an earlier save, uninstall and reinstall the game, and uninstall and reinstall the game on a different drive. If none of those work and the issue you're having is clearly a bug, there's not anything anyone can do to help you.
 
-For mobile users, it's somewhere in the middle. You have less options than PC users, but generally also less issues to begin with. Loading a save is still the easiest method to try fixing problems, but if that doesn't work feel free to ask for help in the [KOTOR Discord](https://discord.gg/MxYDSG2FZu)'s #tech_support channel.
+For mobile users, it's somewhere in the middle. You have less options than PC users, but generally also less issues to begin with. Loading a save is still the easiest method to try fixing problems, but if that doesn't work feel free to ask for help in the [KOTOR Discord's #tech_support channel](https://discord.gg/kotor#tech_support).
 
 If you're on PC, you should avail yourself of our [expanded wiki's bugs section](/faq/k1#bug-support) for some common issues and fixes. If you don't see your problem on there, or the fix for it doesn't work, drop by the Discord for a hand.
 

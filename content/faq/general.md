@@ -52,7 +52,7 @@ If you have problems with *crashes specifically*, the four most common culprits 
 
 * As already mentioned, playing on a laptop, system with an integrated graphics card or system with Arc graphics, which can unfortunately (though not always) result in irreparable crashing which no known method can get around; we recommend ensuring the storefront you buy your games through has a refund policy if you do choose to try playing on a laptop
 
-This list is meant to help provide a shorthand of things to try for users who purchase the game and experience immediate or near-immediate problems, *not* to be exhaustive; we can probably help even if your issue isn't on here! If you're having other problems, please check the FAQ sections for your specific game ([KOTOR](/faq/k1) or [KOTOR 2](/faq/k2)) first, but if there's nothing there to address your specific problem please hop into the #tech_support channel of the [KOTOR Discord](https://discord.gg/MxYDSG2FZu) and let us know your problem! Nine times out of ten, we can find at least a partial solution for you.
+This list is meant to help provide a shorthand of things to try for users who purchase the game and experience immediate or near-immediate problems, *not* to be exhaustive; we can probably help even if your issue isn't on here! If you're having other problems, please check the FAQ sections for your specific game ([KOTOR](/faq/k1) or [KOTOR 2](/faq/k2)) first, but if there's nothing there to address your specific problem please hop into the [#tech_support channel of the KOTOR Discord](https://discord.gg/kotor#tech_support) and let us know your problem! Nine times out of ten, we can find at least a partial solution for you.
 
 ## Mod Support
 

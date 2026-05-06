@@ -22,7 +22,7 @@ See [here](/buy_the_games/) for a list of retailers that sell KOTOR 2, as well a
 
 If you're on the Xbox, there's not much you can ever do. You have three options: load an earlier save, uninstall and reinstall the game, and uninstall and reinstall the game on a different drive. If none of those work and the issue you're having is clearly a bug, there's not anything anyone can do to help you.
 
-If you're on PC, you should avail yourself of our [expanded wiki's bugs section](/faq/k2#bug-support) for some common issues and fixes. If you don't see your problem on there, or the fix for it doesn't work, join the [KOTOR Discord](https://discord.gg/MxYDSG2FZu) and make a post with your issue in the #tech_support channel and we'll try giving you a hand.
+If you're on PC, you should avail yourself of our [expanded wiki's bugs section](/faq/k2#bug-support) for some common issues and fixes. If you don't see your problem on there, or the fix for it doesn't work, join the [KOTOR Discord](https://discord.gg/kotor#rules) and make a post with your issue in the #tech_support channel and we'll try giving you a hand.
 
 ## First-Time Advice
 

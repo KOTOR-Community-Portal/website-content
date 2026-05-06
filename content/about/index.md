@@ -8,7 +8,7 @@ The release KOTOR in 2003 was a watershed moment in video game history: it was o
 
 KOTOR 2, released a little over a year later, suffered a rushed development and is infamous for the amount of content cut from the final release of the game. Nevertheless, it is seen by many as something of an unfinished masterpiece for its engaging and self-reflective narrative, particularly when viewed with restored content.
 
-You can [Buy the Games](/about/buy_the_games) on a variety of platforms. See our see our [Useful Links](/about/useful_links) page for additional resources.
+You can [Buy the Games](/about/buy_the_games) on a variety of platforms. See our see our [Useful Links](/about/links) page for additional resources.
 
 ## The KOTOR Community Portal
 
@@ -18,7 +18,7 @@ _Knights of the Old Republic_ has had an active commmunity since the release of 
 
 Unfortunately, many online spaces have not stood the test of time. Websites like KotORFiles, LucasForums and StarWarsKnights.com, once pillars of the community, shut down years ago. In 2018, the two biggest survivors—[r/kotor](https://www.reddit.com/r/kotor/) on Reddit and the modding forum [Deadly Stream](https://deadlystream.com/)—took efforts to merge their communities, sharing staff members and channels of communication. This brought the modding community and the subreddit closer together and allowed for more cooperative and efficient development of the r/kotor Mod Builds.
 
-Following the controversy surrounding changes to Reddit's API policies in 2023, several members of the community chose to leave the platform, including some r/kotor staff. We decided to create a new home for the Mod Builds and other useful information from Reddit we wished to preserve on a standalone website: the KOTOR Community Portal
+Following the controversy surrounding changes to Reddit's API policies in 2023, several members of the community chose to leave the platform, including some r/kotor staff. We decided to create a new home for the Mod Builds and other useful information from Reddit we wished to preserve on a standalone website: the KOTOR Community Portal.
 
 ### What is Neocities?
 
@@ -30,7 +30,7 @@ We've designed this website with preservation in mind. Hosting the website on Ne
 
 We welcome any new members and encourage everyone to become more involved in the community. Here are some ways you could help out.
 
-- **Join our [Discord server](https://discord.gg/MxYDSG2FZu)**
+- **Join our [Discord server](https://discord.gg/kotor#rules)**
 __
   Our server has over 5,000 members and is an official Discord Partner. Every boost helps! Level perks like increased file upload size and bandwidth benefit all membrers of the server.
 

@@ -4,7 +4,7 @@
 
 _Knights of the Old Republic_ and _Knights of the Old Republic II - The Sith Lords_ are two story-driven roleplaying games set in the Star Wars universe thousands of years before the events of the movies.
 
-The release KOTOR in 2003 was a watershed moment in video game history: it was one of the first roleplaying games to target the console market and capitalized on an existing audience of Star Wars fans. The success of KOTOR influenced the design of later entries in the genre, such as BioWare's _Mass Effect_ and _Dragon Age_ games.
+The release of KOTOR in 2003 was a watershed moment in video game history: it was one of the first roleplaying games to target the console market and capitalized on an existing audience of Star Wars fans. The success of KOTOR influenced the design of later entries in the genre, such as BioWare's _Mass Effect_ and _Dragon Age_ games.
 
 KOTOR 2, released a little over a year later, suffered a rushed development and is infamous for the amount of content cut from the final release of the game. Nevertheless, it is seen by many as something of an unfinished masterpiece for its engaging and self-reflective narrative, particularly when viewed with restored content.
 
@@ -45,3 +45,7 @@ __
 - **Contribute to to the [KotOR Patch Manager](https://github.com/LaneDibello/Kotor-Patch-Manager).**
 __
   Lane has done great work in creating a modular patching framework which lets programmers extend the game engine in ways which were never before possible. They would be happy to have more contributors on this project.
+
+## License
+
+As this is a community-driven website, we are open to sharing what we have. Most of the website's content is released under a public-domain-equivalent license, and the tools used to build the website are a free and open-source. Some exceptions are made for projects which are largely the work of individual contributors, so they may retain control over how their work is shared. See our [GitHub Organization](https://github.com/KOTOR-Community-Portal) for specific licenses.

@@ -2,6 +2,14 @@
 
 ## Informational
 
+### Backup
+
+A total backup of this website is available on GitHub Pages in the event of outages affecting the primary website.
+
+![KOTOR Community Portal logo](/images/logos/kcp.png)
+
+[KOTOR Community Potal Backup](https://kotor-community-portal.github.io/)
+
 ### Frequently Asked Questions
 
 See our FAQ page for answers to common questions about the KOTOR games.

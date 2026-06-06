@@ -76,7 +76,7 @@ https://kotor.neocities.org/faq/lore.html
 
 If a KOTOR Community Portal link is missing a filename or extension, it will attempt to load a webpage using a default value. The default filename is `index` and the default extension is `.html`.
 
-The following links point to the same webpage, with the second link omitting the filename:
+The following links point to the same webpage, with the second link omitting the extension:
 ```
 https://kotor.neocities.org/faq/lore.html
 https://kotor.neocities.org/faq/lore
@@ -85,7 +85,7 @@ https://kotor.neocities.org/faq/lore
 The following links point to the same webpage, with the second link omitting the filename and extension:
 ```
 https://kotor.neocities.org/modding/mod_builds/index.html
-https://kotor.neocities.org/modding/mod_builds
+https://kotor.neocities.org/modding/mod_builds/
 ```
 
 #### Putting It All Together
@@ -101,7 +101,7 @@ https://kotor.neocities.org/faq/lore.html
 The following links point to the same webpage, with the second link using a relative path and omitting the filename and extension:
 ```
 https://kotor.neocities.org/modding/mod_builds/index.html
-/modding/mod_builds
+/modding/mod_builds/
 ```
 
 ### URL Fragments
@@ -110,9 +110,22 @@ You can link to a specific part of a webpage using a URL fragment. A URL fragmen
 
 A URL fragment beings with a hash tag `#` and is followed by the identifier of an element on the webpage.
 
-`/faq/k2#Bug_Support`
+`/faq/k2#bug-support`
 
 The KOTOR Community Portal's toolchain automatically generates identifiers for important elements on each page so they may be linked to. _Be careful when changing a heading, as this will change its identifier and break any existing links to it._
+
+### Discord Invite Links
+
+The KOTOR Community Portal has custom invite links to the KOTOR Discord. We use these to link to a specific channel on the server and to gauge how many people join the server from the website.
+
+- `https://discord.gg/kotor#rules`
+- `https://discord.gg/kotor#tech_support`
+
+These are aliases for the real invite links. They have a custom handler on the website, so when one is clicked it is repalced with the real invite link.
+
+Naturally, use the `#tech_support` link when directing the reader to the `#tech_support` channel. Use the `#rules` link for any other purpose.
+
+Please do not share the real invite links, as this would distort our metrics.
 
 ## Images
 
@@ -176,9 +189,9 @@ The default text alignment is centered for header cells and left for all other c
 | Wisdom       | 15    | +2       |
 | Charisma     | 14    | +2       |
 
-## Note and Warning Boxes
+## Note and Warning Callouts
 
-You can make information stand out more by using note and warning boxes. A box is contained in sequences of three colon characters `:::`. Each box has a title and body. The first paragraph of the body begins with a colon and three spaces `:   `. Subsequent paragraphs begin with four spaces `    `.
+You can make information stand out more by using note and warning callouts. A callout is contained in sequences of three colon characters `:::`. Each callout has a title and body. The first paragraph of the body begins with a colon and three spaces `:   `. Subsequent paragraphs begin with four spaces `    `.
 ```
 :::note
 Note
@@ -194,4 +207,4 @@ Warning
 ```
 <img width="1432" height="406" alt="image" src="https://github.com/user-attachments/assets/27299bb0-780b-48a3-8e6f-12cf44d55a9d" />
 
-_**Note** and **warning box** extensions are not supported by GitHub Flavored Markdown and will not preview correctly on GitHub's web editor._
+_**Note** and **warning callout** extensions are not supported by GitHub Flavored Markdown and will not preview correctly on GitHub's web editor._

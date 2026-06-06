@@ -1,2 +1,5 @@
-# web-content
-test
+# Website Content
+
+This repository contains text content for the KOTOR Community Portal. Some sections, such as the [Mod Builds](https://github.com/KOTOR-Community-Portal/mod-builds) and [News](https://github.com/KOTOR-Community-Portal/news), have dedicated repositories. This repository is for everything else, such as the main page, FAQ, and About section. When the website is deployed, the text files here are converted to the pages you see on the KOTOR Community Portal.
+
+If you are interested in contributing, please read the [How to Contribute](https://github.com/KOTOR-Community-Portal/website-content/blob/-/CONTRIBUTING.md) page so you can learn how. No prior web development experience is required—only a GitHub account and some familiarity with Markdown. You can learn more about writing KOTOR Community Portal pages with Markdown in our [Writing Guide](https://github.com/KOTOR-Community-Portal/website-content/blob/-/WRITING.md).

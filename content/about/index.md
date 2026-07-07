@@ -32,7 +32,7 @@ We welcome any new members and encourage everyone to become more involved in the
 
 - **Join our [Discord server](https://discord.gg/kotor#rules)**
 __
-  Our server has over 5,000 members and is an official Discord Partner. Every boost helps! Level perks like increased file upload size and bandwidth benefit all membrers of the server.
+  Our server has over 5,000 members and is an official Discord Partner. Every boost helps! Level perks like increased file upload size and bandwidth benefit all members of the server.
 
 - **Join [Deadly Stream](https://deadlystream.com/).**
 __
